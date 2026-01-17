@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Suvendu Ruidas
 
-<!--
-**suvendu-block/suvendu-block** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Blockchain & GenAI Learner 🚀 Student at Sheriyans Coding School 📚 | Always coding, always growing 🌱
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Frontend
+- **Languages:** HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries:** React.js, Next.js
+- **Styling:** Tailwind CSS, Responsive Design, Mobile-First UI
+- **Animation:** GSAP, Framer Motion, Lenis (Smooth Scrolling)
+- **Tools:** VS Code, Git & GitHub, Vite
+
+### ⚙️ Backend (Learning)
+- **Runtime & Framework:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose (learning)
+- **API Development:** REST API basics, Postman/Thunder Client
+- **Authentication:** JWT, basic auth concepts (learning)
+- **Security:** CORS, API security basics (learning)
+
+### 🌐 Other Interests
+- **Web3 & Blockchain:** Smart contracts, Web3.js (learning)
+- **UI/UX:** Award-winning website inspiration, Animation-driven design
+- **Exploring:** DevOps, Three.js for 3D animations, Algorithmic trading
+
+---
+
+📍 Bardhaman, West Bengal, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/suvendu-ruidas)  
+📧 Feel free to reach out for collaborations!
