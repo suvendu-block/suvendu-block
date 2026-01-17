@@ -25,6 +25,6 @@ Full Stack Developer | Blockchain & GenAI Learner 🚀 Student at Sheriyans Codi
 
 ---
 
-📍 Bardhaman, West Bengal, India  
+📍 Kolkata, West Bengal, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/suvendu-ruidas)  
 📧 Feel free to reach out for collaborations!
