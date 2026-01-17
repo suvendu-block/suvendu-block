@@ -20,11 +20,11 @@ Full Stack Developer | Blockchain & GenAI Learner 🚀 Student at Sheriyans Codi
 
 ### 🌐 Other Interests
 - **Web3 & Blockchain:** Smart contracts, Web3.js (learning)
-- - **AI & Gen AI:** Generative AI, Agentic AI systems, LLMs (learning)
+- **AI & Gen AI:** Generative AI, Agentic AI systems, LLMs (learning)
 - **UI/UX:** Award-winning website inspiration, Animation-driven design
-- **Exploring:** DevOps, Three.js for 3D animations, Algorithmic trading
+- **Exploring:** DevOps, Three.js for 3D animations, Algorithmic trading (learning)
 
----
+
 
 📍 Kolkata, West Bengal, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/suvendu-ruidas)  
