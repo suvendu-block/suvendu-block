@@ -11,12 +11,12 @@ Full Stack Developer | Blockchain & GenAI Learner 🚀 Student at Sheriyans Codi
 - **Animation:** GSAP, Framer Motion, Lenis (Smooth Scrolling)
 - **Tools:** VS Code, Git & GitHub, Vite
 
-### ⚙️ Backend (Learning)
+### ⚙️ Backend 
 - **Runtime & Framework:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose (learning)
+- **Database:** MongoDB, Mongoose 
 - **API Development:** REST API basics, Postman/Thunder Client
-- **Authentication:** JWT, basic auth concepts (learning)
-- **Security:** CORS, API security basics (learning)
+- **Authentication:** JWT, basic auth concepts 
+- **Security:** CORS, API security basics 
 
 ### 🌐 Other Interests
 - **Web3 & Blockchain:** Smart contracts, Web3.js (learning)
