@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Suvendu Ruidas
 
-Full Stack Developer | Blockchain & GenAI Learner 🚀 Student at Sheriyans Coding School 📚 | Always coding, always growing 🌱
+Full Stack Developer | Blockchain & GenAI Learner 🚀 Student at Sheriyans Coding School 📚 and Tetso College 📚  | Always coding, always growing 🌱
 
 ## 🧠 Tech Stack
 
@@ -19,10 +19,10 @@ Full Stack Developer | Blockchain & GenAI Learner 🚀 Student at Sheriyans Codi
 - **Security:** CORS, API security basics 
 
 ### 🌐 Other Interests
-- **Web3 & Blockchain:** Smart contracts, Web3.js (learning)
-- **AI & Gen AI:** Generative AI, Agentic AI systems, LLMs (learning)
+- **Web3 & Blockchain:** Smart contracts, Web3.js (Exploring)
+- **AI & Gen AI:** Generative AI, Agentic AI systems, LLMs (Exploring)
 - **UI/UX:** Award-winning website inspiration, Animation-driven design
-- **Exploring:** DevOps, Three.js for 3D animations, Algorithmic trading (learning)
+- **Exploring:** DevOps, Three.js for 3D animations, Algorithmic trading (Exploring)
 
 
 
