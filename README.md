@@ -1,31 +1,52 @@
 # Hi there! 👋 I'm Suvendu Ruidas
 
-Full Stack Developer | Blockchain & GenAI Learner 🚀 Student at Sheriyans Coding School 📚 and Tetso College 📚  | Always coding, always growing 🌱
+**Golang Developer | Cloud & DevOps Engineer 🚀**
+
+Student at Sheriyans Coding School 📚 and Tetso College 📚 | Building backend systems, cloud-native applications, and automated infrastructure.
 
 ## 🧠 Tech Stack
 
-### 🎨 Frontend
-- **Languages:** HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries:** React.js, Next.js
-- **Styling:** Tailwind CSS, Responsive Design, Mobile-First UI
-- **Animation:** GSAP, Framer Motion, Lenis (Smooth Scrolling)
-- **Tools:** VS Code, Git & GitHub, Vite
+### 🐹 Backend
+- **Languages:** Go, JavaScript, TypeScript
+- **Backend:** Node.js, REST APIs, gRPC, Microservices
+- **Databases:** PostgreSQL, Redis
 
-### ⚙️ Backend 
-- **Runtime & Framework:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose 
-- **API Development:** REST API basics, Postman/Thunder Client
-- **Authentication:** JWT, basic auth concepts 
-- **Security:** CORS, API security basics 
+### ☁️ Cloud
+- **AWS:** EC2, S3, RDS, IAM, VPC, EKS
+- **Infrastructure:** Terraform
+- **Containers:** Docker, Kubernetes
 
-### 🌐 Other Interests
-- **Web3 & Blockchain:** Smart contracts, Web3.js (Exploring)
-- **AI & Gen AI:** Generative AI, Agentic AI systems, LLMs (Exploring)
-- **UI/UX:** Award-winning website inspiration, Animation-driven design
-- **Exploring:** DevOps, Three.js for 3D animations, Algorithmic trading (Exploring)
+### 🚀 DevOps
+- **CI/CD:** GitHub Actions
+- **GitOps:** Argo CD
+- **Tools:** Git, GitHub, Linux, Helm
 
+### 📊 Monitoring
+- Prometheus
+- Grafana
+- OpenTelemetry
 
+## 🎯 Interests
 
-📍 Kolkata, West Bengal, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/suvendu-ruidas)  
-📧 Feel free to reach out for collaborations!
+- 🐹 Golang Development
+- ☁️ Cloud Computing
+- 🚀 DevOps & Automation
+- ☸️ Kubernetes & Cloud-Native
+- 🏗️ Infrastructure as Code
+- 🔄 CI/CD
+- 📊 Observability
+
+## 📍 About Me
+
+- 📍 Kolkata, West Bengal, India
+- 🎓 Sheriyans Coding School & Tetso College
+- 💻 Golang Developer
+- ☁️ Cloud & DevOps Enthusiast
+
+## 🔗 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/suvendu-ruidas)
+
+📧 Feel free to reach out for collaborations and interesting engineering discussions!
+
+> **Code. Deploy. Scale. 🚀**
