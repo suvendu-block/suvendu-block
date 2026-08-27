@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Suvendu Ruidas
 
-**Golang Developer | Cloud & DevOps Engineer 🚀**
+**Golang Developer | Cloud & Backend Engineer 🚀**
 
 Student at Sheriyans Coding School 📚 and Tetso College 📚  
 Building backend systems, cloud-native applications & automated infrastructure.
@@ -26,7 +26,7 @@ Building backend systems, cloud-native applications & automated infrastructure.
 
 ## 🎯 Interests
 
-Golang • Cloud Computing • DevOps • Kubernetes • CI/CD • Cloud-Native Development
+Golang • Cloud Computing • Kubernetes • CI/CD • Cloud-Native Development
 
 ## 📍 About Me
 
