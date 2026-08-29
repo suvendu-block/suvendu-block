@@ -6,59 +6,21 @@ Student at Sheriyans Coding School 📚 and Tetso College 📚
 Building backend systems,frontend UI/UX using best technology .
 
 ## 🧠 Tech Stack
-### Frontend
 
-* **HTML5, CSS3, JavaScript (ES6+)**
-* **TypeScript**
-* **React.js**
-* **Next.js** (App Router)
-* **Tailwind CSS**
-* State management: **Redux Toolkit** / **Zustand** / **React Query (TanStack Query)**
-* Form handling: **React Hook Form** + **Zod** (validation)
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux/Zustand, React Query, React Hook Form, Zod
 
-### Backend
+**Backend:** Node.js, Express.js, REST API, JWT, OAuth, Socket.io
 
-* **Node.js**
-* **Express.js**
-* API design: **REST**, optionally **GraphQL**
-* Authentication: **JWT**, **OAuth 2.0**, **NextAuth.js**
-* **WebSockets / Socket.io** (real-time features)
+**Database:** MongoDB, MySQL, Mongoose, Prisma, Drizzle, Redis
 
-### Database
+**DevOps:** Git, GitHub, Docker, GitHub Actions, Vercel, Render, Railway, AWS, Nginx
 
-* **MongoDB** (with **Mongoose**)
-* **Prisma** or **Drizzle ORM**
-* **Redis** (caching, sessions, rate limiting)
+**Testing:** Jest, React Testing Library, Postman, Playwright
 
-### DevOps / Deployment
+**Tools:** VS Code, Figma, npm/yarn/pnpm,
 
-* **Git & GitHub**
-* **Docker**
-* **CI/CD**: GitHub Actions
-* Hosting: **Vercel**, **Render**, **Railway**
-* Cloud basics: **AWS** (EC2, S3, Lambda) or **GCP**
-* **Nginx** (reverse proxy basics)
+**Extras:** Stripe/Razorpay, Cloudinary, S3, Nodemailer/Resend
 
-### Testing
-
-* **Jest**
-* **React Testing Library**
-* **Postman** / **Thunder Client** (API testing)
-* **Cypress** or **Playwright** (E2E, optional but valuable)
-
-### Tools & Utilities
-
-* **VS Code**
-* **Postman**
-* **Figma** (basic — reading designs)
-* **npm / yarn / pnpm**
-* **ESLint + Prettier**
-
-### Extra (Payments, File Handling, etc.)
-
-* **Stripe / Razorpay** (payment integration)
-* **Cloudinary / AWS S3** (file/image uploads)
-* **Nodemailer / Resend** (email)
 
 ## 📍 About Me
 
