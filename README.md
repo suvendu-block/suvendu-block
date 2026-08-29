@@ -7,7 +7,7 @@ Building backend systems,frontend UI/UX using best technology .
 
 ## 🧠 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux/Zustand, React Query, React Hook Form, Zod
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux/Zustand 
 
 **Backend:** Node.js, Express.js, REST API, JWT, OAuth, Socket.io
 
