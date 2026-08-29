@@ -19,8 +19,6 @@ Building backend systems,frontend UI/UX using best technology .
 
 **Tools:** VS Code, Figma, npm/yarn/pnpm,
 
-**Extras:** Stripe/Razorpay, Cloudinary, S3, Nodemailer/Resend
-
 
 ## 📍 About Me
 
