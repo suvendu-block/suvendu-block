@@ -11,9 +11,9 @@ Building backend systems,frontend UI/UX using best technology .
 
 **Backend:** Node.js, Express.js, REST API, JWT, OAuth, Socket.io
 
-**Database:** MongoDB, MySQL, Mongoose, Prisma, Drizzle, Redis
+**Database:** MongoDB,Mongoose, Prisma, Redis
 
-**DevOps:** Git, GitHub, Docker, GitHub Actions, Vercel, Render, Railway, AWS, Nginx
+**DevOps:** Git, GitHub, Docker, GitHub Actions, Vercel, Render, Railway, AWS,
 
 **Testing:** Jest, React Testing Library, Postman, Playwright
 
