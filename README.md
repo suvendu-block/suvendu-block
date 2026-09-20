@@ -1,4 +1,8 @@
-<h3 data-importer="text" align="center">Hi there! 👋 I'm Suvendu<br>Full-Stack Developer 💻 | Creative Frontend • Backend • Agentic AI 🤖<br><br>Most of the time, I’m building creative and interactive frontend experiences, while also working on backend systems and occasionally exploring Agentic AI. 🎨⚙️🤖</h3>
+<h3 data-importer="text" align="center">Curious by nature. Limitless by mindset. ⚡<br>Creative Frontend • Backend • Agentic AI — Build. Learn. Experiment. 🚀</h3>
+
+###
+
+<h4 data-importer="text" align="center">Most of the time, I’m building creative and interactive frontend experiences, while also working on backend systems and occasionally exploring Agentic AI. 🎨⚙️🤖</h4>
 
 ###
 
@@ -63,9 +67,7 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&left_text=visit"  />
-</div>
+<h3 data-importer="text" align="center">Curious by nature. Limitless by mindset. ⚡<br>Creative Frontend • Backend • Agentic AI — Build. Learn. Experiment. 🚀</h3>
 
 ###
 
