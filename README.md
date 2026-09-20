@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="center">Curious by nature. Limitless by mindset. ⚡<br>Creative Frontend • Backend • Agentic AI — Build. Learn. Experiment. 🚀</h3>
+<h3 data-importer="text" align="center">Hi there! 👋 I'm Suvendu</h3>
 
 ###
 
