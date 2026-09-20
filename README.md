@@ -29,26 +29,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,postgres,mongodb,redis,python,docker,git" alt="Technology stack" />
 </p>
-
-## How I work
-
-`Understand` → `Design` → `Build` → `Ship` → `Improve`
-
-## GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suvendu-block&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=suvendu-block&theme=radical&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvendu-block&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-
-### Let's build something meaningful.
-
-<a href="https://github.com/suvendu-block">Explore my projects →</a>
-
-</div>
