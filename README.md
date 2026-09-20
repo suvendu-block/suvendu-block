@@ -63,12 +63,6 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHc3dnQ1Znc0cmQ2MzV0M2ZydnRwcXU4ZTAxNGRjeGplOW9vbWhlYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OJ2zF6ebv0XTAqz6eu/giphy.gif"  />
-</div>
-
-###
-
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&left_text=visit"  />
 </div>
