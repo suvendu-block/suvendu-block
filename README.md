@@ -1,4 +1,4 @@
-<h6 data-importer="text" align="center">Hi there! 👋 I'm Suvendu<br>Full-Stack Developer 💻 | Creative Frontend • Backend • Agentic AI 🤖<br><br>Most of the time, I’m building creative and interactive frontend experiences, while also working on backend systems and occasionally exploring Agentic AI. 🎨⚙️🤖</h6>
+<h3 data-importer="text" align="center">Hi there! 👋 I'm Suvendu<br>Full-Stack Developer 💻 | Creative Frontend • Backend • Agentic AI 🤖<br><br>Most of the time, I’m building creative and interactive frontend experiences, while also working on backend systems and occasionally exploring Agentic AI. 🎨⚙️🤖</h3>
 
 ###
 
@@ -39,6 +39,6 @@
 
 ###
 
-<p data-importer="text" align="center">Curious by nature. Limitless by mindset. ⚡<br>Working with GSAP, Framer Motion & modern frontend libraries, building backend systems & APIs, and developing Agentic AI, automation & intelligent workflows.<br>Learn. Build. Experiment. Repeat. 🚀</p>
+<h4 data-importer="text" align="center">Curious by nature. Limitless by mindset. ⚡<br>Working with GSAP, Framer Motion & modern frontend libraries, building backend systems & APIs, and developing Agentic AI, automation & intelligent workflows.<br>Learn. Build. Experiment. Repeat. 🚀</h4>
 
 ###
